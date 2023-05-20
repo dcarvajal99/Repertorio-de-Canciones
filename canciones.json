@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "titulo": "Highway to Hell",
+        "artista": "AC/DC",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 2,
+        "titulo": "Back in Black",
+        "artista": "AC/DC",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 3,
+        "titulo": "Thunderstruck",
+        "artista": "AC/DC",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 4,
+        "titulo": "You Shook Me All Night Long",
+        "artista": "AC/DC",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 5,
+        "titulo": "Whole Lotta Rosie",
+        "artista": "AC/DC",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 6,
+        "titulo": "Paranoid",
+        "artista": "Black Sabbath",
+        "genero": "Heavy Metal"
+    },
+    {
+        "id": 7,
+        "titulo": "Sweet Child o' Mine",
+        "artista": "Guns N' Roses",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 8,
+        "titulo": "Smoke on the Water",
+        "artista": "Deep Purple",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 9,
+        "titulo": "Highway Star",
+        "artista": "Deep Purple",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 10,
+        "titulo": "Iron Man",
+        "artista": "Black Sabbath",
+        "genero": "Heavy Metal"
+    },
+    {
+        "id": 11,
+        "titulo": "Rock and Roll All Nite",
+        "artista": "KISS",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 12,
+        "titulo": "Hells Bells",
+        "artista": "AC/DC",
+        "genero": "Hard Rock"
+    },
+    {
+        "id": 13,
+        "titulo": "Livin' on a Prayer",
+        "artista": "Bon Jovi",
+        "genero": "Rock"
+    },
+    {
+        "id": 14,
+        "titulo": "Ace of Spades",
+        "artista": "Motörhead",
+        "genero": "Heavy Metal"
+    },
+    {
+        "id": 15,
+        "titulo": "The Trooper",
+        "artista": "Iron Maiden",
+        "genero": "Heavy Metal"
+    }
+]
