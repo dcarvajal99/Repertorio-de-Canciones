@@ -14,7 +14,7 @@ Este repositorio contiene el backend de una aplicación web para la gestión de 
 
 1. Clona este repositorio en tu máquina local:
 
-git clone <URL_DEL_REPOSITORIO>
+git clone git@github.com:dcarvajal99/Repertorio-de-Canciones.git
 
 2. Navega hasta el directorio del proyecto:
 
@@ -33,7 +33,7 @@ node app.js
 
 3.El servidor se ejecutará en el puerto 3000 por defecto. Puedes acceder a las rutas de la API REST utilizando herramientas como cURL, Postman o cualquier cliente HTTP.
 
-#Rutas de la API REST
+# Rutas de la API REST
 
 El servidor Express proporciona las siguientes rutas para administrar el repertorio de canciones:
 
@@ -47,10 +47,10 @@ DELETE /canciones/:id: Elimina una canción del repertorio. Se debe proporcionar
 
 Asegúrate de seguir el formato correcto para enviar los datos y los parámetros requeridos en cada ruta.
 
-#Contribución
+# Contribución
 Este proyecto se creó como parte de una tarea. Por lo tanto, no se aceptarán contribuciones externas.
 
-#Licencia
+# Licencia
 Este proyecto es de uso libre y está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 
